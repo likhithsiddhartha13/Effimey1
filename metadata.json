@@ -1,0 +1,8 @@
+{
+  "name": "Effimey",
+  "description": "A clean, intelligent workspace for students to manage tasks, schedule, and study with AI assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
